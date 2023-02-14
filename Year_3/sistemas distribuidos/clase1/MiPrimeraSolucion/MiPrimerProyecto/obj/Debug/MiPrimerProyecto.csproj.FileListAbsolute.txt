@@ -1,0 +1,8 @@
+C:\Users\andyp\Desktop\sistemas distribuidos\clase1\MiPrimeraSolucion\MiPrimerProyecto\bin\Debug\MiPrimerProyecto.exe.config
+C:\Users\andyp\Desktop\sistemas distribuidos\clase1\MiPrimeraSolucion\MiPrimerProyecto\bin\Debug\MiPrimerProyecto.exe
+C:\Users\andyp\Desktop\sistemas distribuidos\clase1\MiPrimeraSolucion\MiPrimerProyecto\bin\Debug\MiPrimerProyecto.pdb
+C:\Users\andyp\Desktop\sistemas distribuidos\clase1\MiPrimeraSolucion\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.csproj.AssemblyReference.cache
+C:\Users\andyp\Desktop\sistemas distribuidos\clase1\MiPrimeraSolucion\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\andyp\Desktop\sistemas distribuidos\clase1\MiPrimeraSolucion\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.csproj.CoreCompileInputs.cache
+C:\Users\andyp\Desktop\sistemas distribuidos\clase1\MiPrimeraSolucion\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.exe
+C:\Users\andyp\Desktop\sistemas distribuidos\clase1\MiPrimeraSolucion\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.pdb

@@ -1,0 +1,15 @@
+C:\Users\andyp\Desktop\sistemas distribuidos\PruebaSoap1\PruebaSoap1\bin\Debug\PruebaSoap1.exe.config
+C:\Users\andyp\Desktop\sistemas distribuidos\PruebaSoap1\PruebaSoap1\bin\Debug\PruebaSoap1.exe
+C:\Users\andyp\Desktop\sistemas distribuidos\PruebaSoap1\PruebaSoap1\bin\Debug\PruebaSoap1.pdb
+C:\Users\andyp\Desktop\sistemas distribuidos\PruebaSoap1\PruebaSoap1\obj\Debug\PruebaSoap1.csproj.AssemblyReference.cache
+C:\Users\andyp\Desktop\sistemas distribuidos\PruebaSoap1\PruebaSoap1\obj\Debug\PruebaSoap1.csproj.SuggestedBindingRedirects.cache
+C:\Users\andyp\Desktop\sistemas distribuidos\PruebaSoap1\PruebaSoap1\obj\Debug\PruebaSoap1.Form1.resources
+C:\Users\andyp\Desktop\sistemas distribuidos\PruebaSoap1\PruebaSoap1\obj\Debug\PruebaSoap1.Properties.Resources.resources
+C:\Users\andyp\Desktop\sistemas distribuidos\PruebaSoap1\PruebaSoap1\obj\Debug\PruebaSoap1.csproj.GenerateResource.cache
+C:\Users\andyp\Desktop\sistemas distribuidos\PruebaSoap1\PruebaSoap1\obj\Debug\PruebaSoap1.csproj.CoreCompileInputs.cache
+C:\Users\andyp\Desktop\sistemas distribuidos\PruebaSoap1\PruebaSoap1\obj\Debug\PruebaSoap1.exe
+C:\Users\andyp\Desktop\sistemas distribuidos\PruebaSoap1\PruebaSoap1\obj\Debug\PruebaSoap1.pdb
+C:\Users\andyp\Desktop\sistemas distribuidos\PruebaSoap1\PruebaSoap1\bin\Debug\SoapTemperatureConverter.dll
+C:\Users\andyp\Desktop\sistemas distribuidos\PruebaSoap1\PruebaSoap1\bin\Debug\SoapTemperatureConverter.pdb
+C:\Users\andyp\Desktop\sistemas distribuidos\PruebaSoap1\PruebaSoap1\bin\Debug\SoapTemperatureConverter.dll.config
+C:\Users\andyp\Desktop\sistemas distribuidos\PruebaSoap1\PruebaSoap1\obj\Debug\PruebaSoap1.csproj.CopyComplete

@@ -1,0 +1,6 @@
+C:\Users\andyp\Desktop\ExamenPracial\XMLConverter\bin\Debug\XMLConverter.dll
+C:\Users\andyp\Desktop\ExamenPracial\XMLConverter\bin\Debug\XMLConverter.pdb
+C:\Users\andyp\Desktop\ExamenPracial\XMLConverter\obj\Debug\XMLConverter.csproj.AssemblyReference.cache
+C:\Users\andyp\Desktop\ExamenPracial\XMLConverter\obj\Debug\XMLConverter.csproj.CoreCompileInputs.cache
+C:\Users\andyp\Desktop\ExamenPracial\XMLConverter\obj\Debug\XMLConverter.dll
+C:\Users\andyp\Desktop\ExamenPracial\XMLConverter\obj\Debug\XMLConverter.pdb

@@ -1,0 +1,11 @@
+C:\Users\andyp\Desktop\SOAPWeatherAPI\SOAPWeatherForm\bin\Debug\SOAPWeatherForm.exe.config
+C:\Users\andyp\Desktop\SOAPWeatherAPI\SOAPWeatherForm\bin\Debug\SOAPWeatherForm.exe
+C:\Users\andyp\Desktop\SOAPWeatherAPI\SOAPWeatherForm\bin\Debug\SOAPWeatherForm.pdb
+C:\Users\andyp\Desktop\SOAPWeatherAPI\SOAPWeatherForm\obj\Debug\SOAPWeatherForm.csproj.AssemblyReference.cache
+C:\Users\andyp\Desktop\SOAPWeatherAPI\SOAPWeatherForm\obj\Debug\SOAPWeatherForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\andyp\Desktop\SOAPWeatherAPI\SOAPWeatherForm\obj\Debug\SOAPWeatherForm.Form1.resources
+C:\Users\andyp\Desktop\SOAPWeatherAPI\SOAPWeatherForm\obj\Debug\SOAPWeatherForm.Properties.Resources.resources
+C:\Users\andyp\Desktop\SOAPWeatherAPI\SOAPWeatherForm\obj\Debug\SOAPWeatherForm.csproj.GenerateResource.cache
+C:\Users\andyp\Desktop\SOAPWeatherAPI\SOAPWeatherForm\obj\Debug\SOAPWeatherForm.csproj.CoreCompileInputs.cache
+C:\Users\andyp\Desktop\SOAPWeatherAPI\SOAPWeatherForm\obj\Debug\SOAPWeatherForm.exe
+C:\Users\andyp\Desktop\SOAPWeatherAPI\SOAPWeatherForm\obj\Debug\SOAPWeatherForm.pdb

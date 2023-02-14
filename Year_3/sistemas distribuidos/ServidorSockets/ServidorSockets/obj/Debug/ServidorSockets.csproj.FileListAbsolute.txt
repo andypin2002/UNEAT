@@ -1,0 +1,8 @@
+C:\Users\andyp\Desktop\sistemas distribuidos\ServidorSockets\ServidorSockets\bin\Debug\ServidorSockets.exe.config
+C:\Users\andyp\Desktop\sistemas distribuidos\ServidorSockets\ServidorSockets\bin\Debug\ServidorSockets.exe
+C:\Users\andyp\Desktop\sistemas distribuidos\ServidorSockets\ServidorSockets\bin\Debug\ServidorSockets.pdb
+C:\Users\andyp\Desktop\sistemas distribuidos\ServidorSockets\ServidorSockets\obj\Debug\ServidorSockets.csproj.AssemblyReference.cache
+C:\Users\andyp\Desktop\sistemas distribuidos\ServidorSockets\ServidorSockets\obj\Debug\ServidorSockets.csproj.SuggestedBindingRedirects.cache
+C:\Users\andyp\Desktop\sistemas distribuidos\ServidorSockets\ServidorSockets\obj\Debug\ServidorSockets.csproj.CoreCompileInputs.cache
+C:\Users\andyp\Desktop\sistemas distribuidos\ServidorSockets\ServidorSockets\obj\Debug\ServidorSockets.exe
+C:\Users\andyp\Desktop\sistemas distribuidos\ServidorSockets\ServidorSockets\obj\Debug\ServidorSockets.pdb

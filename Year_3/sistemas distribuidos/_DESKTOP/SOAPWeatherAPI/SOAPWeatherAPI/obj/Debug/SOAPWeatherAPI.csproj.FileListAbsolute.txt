@@ -1,0 +1,10 @@
+C:\Users\andyp\Desktop\SOAPWeatherAPI\SOAPWeatherAPI\bin\SOAPWeatherAPI.dll.config
+C:\Users\andyp\Desktop\SOAPWeatherAPI\SOAPWeatherAPI\bin\SOAPWeatherAPI.dll
+C:\Users\andyp\Desktop\SOAPWeatherAPI\SOAPWeatherAPI\bin\SOAPWeatherAPI.pdb
+C:\Users\andyp\Desktop\SOAPWeatherAPI\SOAPWeatherAPI\bin\Newtonsoft.Json.dll
+C:\Users\andyp\Desktop\SOAPWeatherAPI\SOAPWeatherAPI\bin\Newtonsoft.Json.xml
+C:\Users\andyp\Desktop\SOAPWeatherAPI\SOAPWeatherAPI\obj\Debug\SOAPWeatherAPI.csproj.AssemblyReference.cache
+C:\Users\andyp\Desktop\SOAPWeatherAPI\SOAPWeatherAPI\obj\Debug\SOAPWeatherAPI.csproj.CoreCompileInputs.cache
+C:\Users\andyp\Desktop\SOAPWeatherAPI\SOAPWeatherAPI\obj\Debug\SOAPWeatherAPI.csproj.CopyComplete
+C:\Users\andyp\Desktop\SOAPWeatherAPI\SOAPWeatherAPI\obj\Debug\SOAPWeatherAPI.dll
+C:\Users\andyp\Desktop\SOAPWeatherAPI\SOAPWeatherAPI\obj\Debug\SOAPWeatherAPI.pdb

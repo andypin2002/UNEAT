@@ -1,0 +1,11 @@
+C:\Users\andyp\Desktop\ExamenPracial\ExamenPracial\bin\Debug\ExamenPracial.exe.config
+C:\Users\andyp\Desktop\ExamenPracial\ExamenPracial\bin\Debug\ExamenPracial.exe
+C:\Users\andyp\Desktop\ExamenPracial\ExamenPracial\bin\Debug\ExamenPracial.pdb
+C:\Users\andyp\Desktop\ExamenPracial\ExamenPracial\bin\Debug\XMLConverter.dll
+C:\Users\andyp\Desktop\ExamenPracial\ExamenPracial\bin\Debug\XMLConverter.pdb
+C:\Users\andyp\Desktop\ExamenPracial\ExamenPracial\obj\Debug\ExamenPracial.csproj.AssemblyReference.cache
+C:\Users\andyp\Desktop\ExamenPracial\ExamenPracial\obj\Debug\ExamenPracial.csproj.SuggestedBindingRedirects.cache
+C:\Users\andyp\Desktop\ExamenPracial\ExamenPracial\obj\Debug\ExamenPracial.csproj.CoreCompileInputs.cache
+C:\Users\andyp\Desktop\ExamenPracial\ExamenPracial\obj\Debug\ExamenPracial.csproj.CopyComplete
+C:\Users\andyp\Desktop\ExamenPracial\ExamenPracial\obj\Debug\ExamenPracial.exe
+C:\Users\andyp\Desktop\ExamenPracial\ExamenPracial\obj\Debug\ExamenPracial.pdb

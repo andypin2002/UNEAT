@@ -1,0 +1,12 @@
+C:\Users\andyp\Desktop\sistemas distribuidos\CalculadoraRemota\ServerCalculadora\bin\Debug\ServerCalculadora.exe.config
+C:\Users\andyp\Desktop\sistemas distribuidos\CalculadoraRemota\ServerCalculadora\bin\Debug\ServerCalculadora.exe
+C:\Users\andyp\Desktop\sistemas distribuidos\CalculadoraRemota\ServerCalculadora\bin\Debug\ServerCalculadora.pdb
+C:\Users\andyp\Desktop\sistemas distribuidos\CalculadoraRemota\ServerCalculadora\obj\Debug\ServerCalculadora.csproj.AssemblyReference.cache
+C:\Users\andyp\Desktop\sistemas distribuidos\CalculadoraRemota\ServerCalculadora\obj\Debug\ServerCalculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\andyp\Desktop\sistemas distribuidos\CalculadoraRemota\ServerCalculadora\obj\Debug\ServerCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\andyp\Desktop\sistemas distribuidos\CalculadoraRemota\ServerCalculadora\obj\Debug\ServerCalculadora.exe
+C:\Users\andyp\Desktop\sistemas distribuidos\CalculadoraRemota\ServerCalculadora\obj\Debug\ServerCalculadora.pdb
+C:\Users\andyp\Desktop\sistemas distribuidos\CalculadoraRemota\ServerCalculadora\bin\Debug\Calculadora.dll
+C:\Users\andyp\Desktop\sistemas distribuidos\CalculadoraRemota\ServerCalculadora\bin\Debug\Calculadora.pdb
+C:\Users\andyp\Desktop\sistemas distribuidos\CalculadoraRemota\ServerCalculadora\bin\Debug\Calculadora.dll.config
+C:\Users\andyp\Desktop\sistemas distribuidos\CalculadoraRemota\ServerCalculadora\obj\Debug\ServerCalculadora.csproj.CopyComplete

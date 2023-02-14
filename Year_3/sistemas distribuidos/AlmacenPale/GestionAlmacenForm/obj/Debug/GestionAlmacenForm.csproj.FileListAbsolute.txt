@@ -1,0 +1,17 @@
+C:\Users\andyp\Desktop\sistemas distribuidos\AlmacenPale\GestionAlmacenForm\bin\Debug\GestionAlmacenForm.exe.config
+C:\Users\andyp\Desktop\sistemas distribuidos\AlmacenPale\GestionAlmacenForm\bin\Debug\GestionAlmacenForm.exe
+C:\Users\andyp\Desktop\sistemas distribuidos\AlmacenPale\GestionAlmacenForm\bin\Debug\GestionAlmacenForm.pdb
+C:\Users\andyp\Desktop\sistemas distribuidos\AlmacenPale\GestionAlmacenForm\bin\Debug\Extra.dll
+C:\Users\andyp\Desktop\sistemas distribuidos\AlmacenPale\GestionAlmacenForm\bin\Debug\GestionAlmacen.dll
+C:\Users\andyp\Desktop\sistemas distribuidos\AlmacenPale\GestionAlmacenForm\bin\Debug\Extra.pdb
+C:\Users\andyp\Desktop\sistemas distribuidos\AlmacenPale\GestionAlmacenForm\bin\Debug\GestionAlmacen.pdb
+C:\Users\andyp\Desktop\sistemas distribuidos\AlmacenPale\GestionAlmacenForm\bin\Debug\GestionAlmacen.dll.config
+C:\Users\andyp\Desktop\sistemas distribuidos\AlmacenPale\GestionAlmacenForm\obj\Debug\GestionAlmacenForm.csproj.AssemblyReference.cache
+C:\Users\andyp\Desktop\sistemas distribuidos\AlmacenPale\GestionAlmacenForm\obj\Debug\GestionAlmacenForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\andyp\Desktop\sistemas distribuidos\AlmacenPale\GestionAlmacenForm\obj\Debug\GestionAlmacenForm.Form1.resources
+C:\Users\andyp\Desktop\sistemas distribuidos\AlmacenPale\GestionAlmacenForm\obj\Debug\GestionAlmacenForm.Properties.Resources.resources
+C:\Users\andyp\Desktop\sistemas distribuidos\AlmacenPale\GestionAlmacenForm\obj\Debug\GestionAlmacenForm.csproj.GenerateResource.cache
+C:\Users\andyp\Desktop\sistemas distribuidos\AlmacenPale\GestionAlmacenForm\obj\Debug\GestionAlmacenForm.csproj.CoreCompileInputs.cache
+C:\Users\andyp\Desktop\sistemas distribuidos\AlmacenPale\GestionAlmacenForm\obj\Debug\GestionAlmacenForm.csproj.CopyComplete
+C:\Users\andyp\Desktop\sistemas distribuidos\AlmacenPale\GestionAlmacenForm\obj\Debug\GestionAlmacenForm.exe
+C:\Users\andyp\Desktop\sistemas distribuidos\AlmacenPale\GestionAlmacenForm\obj\Debug\GestionAlmacenForm.pdb

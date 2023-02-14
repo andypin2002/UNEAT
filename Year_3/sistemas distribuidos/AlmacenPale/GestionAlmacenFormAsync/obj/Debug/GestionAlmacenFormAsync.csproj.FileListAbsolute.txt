@@ -1,0 +1,16 @@
+C:\Users\andyp\Desktop\sistemas distribuidos\AlmacenPale\GestionAlmacenFormAsync\bin\Debug\GestionAlmacenFormAsync.exe.config
+C:\Users\andyp\Desktop\sistemas distribuidos\AlmacenPale\GestionAlmacenFormAsync\bin\Debug\GestionAlmacenFormAsync.exe
+C:\Users\andyp\Desktop\sistemas distribuidos\AlmacenPale\GestionAlmacenFormAsync\bin\Debug\GestionAlmacenFormAsync.pdb
+C:\Users\andyp\Desktop\sistemas distribuidos\AlmacenPale\GestionAlmacenFormAsync\bin\Debug\Extra.dll
+C:\Users\andyp\Desktop\sistemas distribuidos\AlmacenPale\GestionAlmacenFormAsync\bin\Debug\Extra.pdb
+C:\Users\andyp\Desktop\sistemas distribuidos\AlmacenPale\GestionAlmacenFormAsync\obj\Debug\GestionAlmacenFormAsync.csproj.AssemblyReference.cache
+C:\Users\andyp\Desktop\sistemas distribuidos\AlmacenPale\GestionAlmacenFormAsync\obj\Debug\GestionAlmacenFormAsync.csproj.SuggestedBindingRedirects.cache
+C:\Users\andyp\Desktop\sistemas distribuidos\AlmacenPale\GestionAlmacenFormAsync\obj\Debug\GestionAlmacenFormAsync.Form1.resources
+C:\Users\andyp\Desktop\sistemas distribuidos\AlmacenPale\GestionAlmacenFormAsync\obj\Debug\GestionAlmacenFormAsync.Properties.Resources.resources
+C:\Users\andyp\Desktop\sistemas distribuidos\AlmacenPale\GestionAlmacenFormAsync\obj\Debug\GestionAlmacenFormAsync.csproj.GenerateResource.cache
+C:\Users\andyp\Desktop\sistemas distribuidos\AlmacenPale\GestionAlmacenFormAsync\obj\Debug\GestionAlmacenFormAsync.csproj.CoreCompileInputs.cache
+C:\Users\andyp\Desktop\sistemas distribuidos\AlmacenPale\GestionAlmacenFormAsync\obj\Debug\GestionAlmacenFormAsync.csproj.CopyComplete
+C:\Users\andyp\Desktop\sistemas distribuidos\AlmacenPale\GestionAlmacenFormAsync\obj\Debug\GestionAlmacenFormAsync.exe
+C:\Users\andyp\Desktop\sistemas distribuidos\AlmacenPale\GestionAlmacenFormAsync\obj\Debug\GestionAlmacenFormAsync.pdb
+C:\Users\andyp\Desktop\sistemas distribuidos\AlmacenPale\GestionAlmacenFormAsync\obj\Debug\GestionAlmacenFormAsync.AddPale.resources
+C:\Users\andyp\Desktop\sistemas distribuidos\AlmacenPale\GestionAlmacenFormAsync\obj\Debug\GestionAlmacenFormAsync.PaleList.resources

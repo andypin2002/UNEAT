@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tns="http://tempuri.org/" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" name="GestionAlmacen" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:51691/GestionAlmacen.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:51691/GestionAlmacen.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:51691/GestionAlmacen.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/GestionAlmacen" />
+      <xsd:import schemaLocation="http://localhost:51691/GestionAlmacen.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/Extra" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IGestionAlmacen_AltaPale_InputMessage">
+    <wsdl:part name="parameters" element="tns:AltaPale" />
+  </wsdl:message>
+  <wsdl:message name="IGestionAlmacen_AltaPale_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AltaPaleResponse" />
+  </wsdl:message>
+  <wsdl:message name="IGestionAlmacen_BajaPale_InputMessage">
+    <wsdl:part name="parameters" element="tns:BajaPale" />
+  </wsdl:message>
+  <wsdl:message name="IGestionAlmacen_BajaPale_OutputMessage">
+    <wsdl:part name="parameters" element="tns:BajaPaleResponse" />
+  </wsdl:message>
+  <wsdl:message name="IGestionAlmacen_UbicarPale_InputMessage">
+    <wsdl:part name="parameters" element="tns:UbicarPale" />
+  </wsdl:message>
+  <wsdl:message name="IGestionAlmacen_UbicarPale_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UbicarPaleResponse" />
+  </wsdl:message>
+  <wsdl:message name="IGestionAlmacen_RecuperarPale_InputMessage">
+    <wsdl:part name="parameters" element="tns:RecuperarPale" />
+  </wsdl:message>
+  <wsdl:message name="IGestionAlmacen_RecuperarPale_OutputMessage">
+    <wsdl:part name="parameters" element="tns:RecuperarPaleResponse" />
+  </wsdl:message>
+  <wsdl:message name="IGestionAlmacen_GetUbicacionPale_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetUbicacionPale" />
+  </wsdl:message>
+  <wsdl:message name="IGestionAlmacen_GetUbicacionPale_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetUbicacionPaleResponse" />
+  </wsdl:message>
+  <wsdl:message name="IGestionAlmacen_fetchPales_InputMessage">
+    <wsdl:part name="parameters" element="tns:fetchPales" />
+  </wsdl:message>
+  <wsdl:message name="IGestionAlmacen_fetchPales_OutputMessage">
+    <wsdl:part name="parameters" element="tns:fetchPalesResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IGestionAlmacen">
+    <wsdl:operation name="AltaPale">
+      <wsdl:input wsaw:Action="http://tempuri.org/IGestionAlmacen/AltaPale" message="tns:IGestionAlmacen_AltaPale_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IGestionAlmacen/AltaPaleResponse" message="tns:IGestionAlmacen_AltaPale_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="BajaPale">
+      <wsdl:input wsaw:Action="http://tempuri.org/IGestionAlmacen/BajaPale" message="tns:IGestionAlmacen_BajaPale_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IGestionAlmacen/BajaPaleResponse" message="tns:IGestionAlmacen_BajaPale_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UbicarPale">
+      <wsdl:input wsaw:Action="http://tempuri.org/IGestionAlmacen/UbicarPale" message="tns:IGestionAlmacen_UbicarPale_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IGestionAlmacen/UbicarPaleResponse" message="tns:IGestionAlmacen_UbicarPale_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="RecuperarPale">
+      <wsdl:input wsaw:Action="http://tempuri.org/IGestionAlmacen/RecuperarPale" message="tns:IGestionAlmacen_RecuperarPale_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IGestionAlmacen/RecuperarPaleResponse" message="tns:IGestionAlmacen_RecuperarPale_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetUbicacionPale">
+      <wsdl:input wsaw:Action="http://tempuri.org/IGestionAlmacen/GetUbicacionPale" message="tns:IGestionAlmacen_GetUbicacionPale_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IGestionAlmacen/GetUbicacionPaleResponse" message="tns:IGestionAlmacen_GetUbicacionPale_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="fetchPales">
+      <wsdl:input wsaw:Action="http://tempuri.org/IGestionAlmacen/fetchPales" message="tns:IGestionAlmacen_fetchPales_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IGestionAlmacen/fetchPalesResponse" message="tns:IGestionAlmacen_fetchPales_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IGestionAlmacen" type="tns:IGestionAlmacen">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="AltaPale">
+      <soap:operation soapAction="http://tempuri.org/IGestionAlmacen/AltaPale" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="BajaPale">
+      <soap:operation soapAction="http://tempuri.org/IGestionAlmacen/BajaPale" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UbicarPale">
+      <soap:operation soapAction="http://tempuri.org/IGestionAlmacen/UbicarPale" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RecuperarPale">
+      <soap:operation soapAction="http://tempuri.org/IGestionAlmacen/RecuperarPale" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetUbicacionPale">
+      <soap:operation soapAction="http://tempuri.org/IGestionAlmacen/GetUbicacionPale" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="fetchPales">
+      <soap:operation soapAction="http://tempuri.org/IGestionAlmacen/fetchPales" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="GestionAlmacen">
+    <wsdl:port name="BasicHttpBinding_IGestionAlmacen" binding="tns:BasicHttpBinding_IGestionAlmacen">
+      <soap:address location="http://localhost:51691/GestionAlmacen.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

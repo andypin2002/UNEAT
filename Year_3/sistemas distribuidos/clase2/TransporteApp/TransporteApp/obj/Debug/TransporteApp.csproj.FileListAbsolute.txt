@@ -1,0 +1,11 @@
+C:\Users\andyp\Desktop\sistemas distribuidos\clase2\TransporteApp\TransporteApp\bin\Debug\TransporteApp.exe.config
+C:\Users\andyp\Desktop\sistemas distribuidos\clase2\TransporteApp\TransporteApp\bin\Debug\TransporteApp.exe
+C:\Users\andyp\Desktop\sistemas distribuidos\clase2\TransporteApp\TransporteApp\bin\Debug\TransporteApp.pdb
+C:\Users\andyp\Desktop\sistemas distribuidos\clase2\TransporteApp\TransporteApp\obj\Debug\TransporteApp.csproj.AssemblyReference.cache
+C:\Users\andyp\Desktop\sistemas distribuidos\clase2\TransporteApp\TransporteApp\obj\Debug\TransporteApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\andyp\Desktop\sistemas distribuidos\clase2\TransporteApp\TransporteApp\obj\Debug\TransporteApp.csproj.CoreCompileInputs.cache
+C:\Users\andyp\Desktop\sistemas distribuidos\clase2\TransporteApp\TransporteApp\obj\Debug\TransporteApp.exe
+C:\Users\andyp\Desktop\sistemas distribuidos\clase2\TransporteApp\TransporteApp\obj\Debug\TransporteApp.pdb
+C:\Users\andyp\Desktop\sistemas distribuidos\clase2\TransporteApp\TransporteApp\bin\Debug\Vehiculo.dll
+C:\Users\andyp\Desktop\sistemas distribuidos\clase2\TransporteApp\TransporteApp\bin\Debug\Vehiculo.pdb
+C:\Users\andyp\Desktop\sistemas distribuidos\clase2\TransporteApp\TransporteApp\obj\Debug\TransporteApp.csproj.CopyComplete

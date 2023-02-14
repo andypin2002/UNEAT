@@ -1,0 +1,8 @@
+C:\Users\andyp\Desktop\sistemas distribuidos\ServidorSockets\ClienteSockets\bin\Debug\ClienteSockets.exe.config
+C:\Users\andyp\Desktop\sistemas distribuidos\ServidorSockets\ClienteSockets\bin\Debug\ClienteSockets.exe
+C:\Users\andyp\Desktop\sistemas distribuidos\ServidorSockets\ClienteSockets\bin\Debug\ClienteSockets.pdb
+C:\Users\andyp\Desktop\sistemas distribuidos\ServidorSockets\ClienteSockets\obj\Debug\ClienteSockets.csproj.AssemblyReference.cache
+C:\Users\andyp\Desktop\sistemas distribuidos\ServidorSockets\ClienteSockets\obj\Debug\ClienteSockets.csproj.SuggestedBindingRedirects.cache
+C:\Users\andyp\Desktop\sistemas distribuidos\ServidorSockets\ClienteSockets\obj\Debug\ClienteSockets.csproj.CoreCompileInputs.cache
+C:\Users\andyp\Desktop\sistemas distribuidos\ServidorSockets\ClienteSockets\obj\Debug\ClienteSockets.exe
+C:\Users\andyp\Desktop\sistemas distribuidos\ServidorSockets\ClienteSockets\obj\Debug\ClienteSockets.pdb

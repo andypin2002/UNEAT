@@ -1,0 +1,14 @@
+C:\Users\andyp\Desktop\RESTWeatherAPI\RESTWeatherAPIForm\obj\Debug\RESTWeatherAPIForm.csproj.AssemblyReference.cache
+C:\Users\andyp\Desktop\RESTWeatherAPI\RESTWeatherAPIForm\obj\Debug\RESTWeatherAPIForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\andyp\Desktop\RESTWeatherAPI\RESTWeatherAPIForm\obj\Debug\RESTWeatherAPIForm.Form1.resources
+C:\Users\andyp\Desktop\RESTWeatherAPI\RESTWeatherAPIForm\obj\Debug\RESTWeatherAPIForm.Properties.Resources.resources
+C:\Users\andyp\Desktop\RESTWeatherAPI\RESTWeatherAPIForm\obj\Debug\RESTWeatherAPIForm.csproj.GenerateResource.cache
+C:\Users\andyp\Desktop\RESTWeatherAPI\RESTWeatherAPIForm\obj\Debug\RESTWeatherAPIForm.csproj.CoreCompileInputs.cache
+C:\Users\andyp\Desktop\RESTWeatherAPI\RESTWeatherAPIForm\bin\Debug\RESTWeatherAPIForm.exe.config
+C:\Users\andyp\Desktop\RESTWeatherAPI\RESTWeatherAPIForm\bin\Debug\RESTWeatherAPIForm.exe
+C:\Users\andyp\Desktop\RESTWeatherAPI\RESTWeatherAPIForm\bin\Debug\RESTWeatherAPIForm.pdb
+C:\Users\andyp\Desktop\RESTWeatherAPI\RESTWeatherAPIForm\obj\Debug\RESTWeatherAPIForm.exe
+C:\Users\andyp\Desktop\RESTWeatherAPI\RESTWeatherAPIForm\obj\Debug\RESTWeatherAPIForm.pdb
+C:\Users\andyp\Desktop\RESTWeatherAPI\RESTWeatherAPIForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\andyp\Desktop\RESTWeatherAPI\RESTWeatherAPIForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\andyp\Desktop\RESTWeatherAPI\RESTWeatherAPIForm\obj\Debug\RESTWeatherAPIForm.csproj.CopyComplete

@@ -1,0 +1,17 @@
+C:\Users\andyp\Desktop\ExamenPracial\CitasForm\bin\Debug\CitasForm.exe.config
+C:\Users\andyp\Desktop\ExamenPracial\CitasForm\bin\Debug\CitasForm.exe
+C:\Users\andyp\Desktop\ExamenPracial\CitasForm\bin\Debug\CitasForm.pdb
+C:\Users\andyp\Desktop\ExamenPracial\CitasForm\bin\Debug\ExamenPracial.exe
+C:\Users\andyp\Desktop\ExamenPracial\CitasForm\bin\Debug\XMLConverter.dll
+C:\Users\andyp\Desktop\ExamenPracial\CitasForm\bin\Debug\ExamenPracial.pdb
+C:\Users\andyp\Desktop\ExamenPracial\CitasForm\bin\Debug\ExamenPracial.exe.config
+C:\Users\andyp\Desktop\ExamenPracial\CitasForm\bin\Debug\XMLConverter.pdb
+C:\Users\andyp\Desktop\ExamenPracial\CitasForm\obj\Debug\CitasForm.csproj.AssemblyReference.cache
+C:\Users\andyp\Desktop\ExamenPracial\CitasForm\obj\Debug\CitasForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\andyp\Desktop\ExamenPracial\CitasForm\obj\Debug\CitasForm.Form1.resources
+C:\Users\andyp\Desktop\ExamenPracial\CitasForm\obj\Debug\CitasForm.Properties.Resources.resources
+C:\Users\andyp\Desktop\ExamenPracial\CitasForm\obj\Debug\CitasForm.csproj.GenerateResource.cache
+C:\Users\andyp\Desktop\ExamenPracial\CitasForm\obj\Debug\CitasForm.csproj.CoreCompileInputs.cache
+C:\Users\andyp\Desktop\ExamenPracial\CitasForm\obj\Debug\CitasForm.csproj.CopyComplete
+C:\Users\andyp\Desktop\ExamenPracial\CitasForm\obj\Debug\CitasForm.exe
+C:\Users\andyp\Desktop\ExamenPracial\CitasForm\obj\Debug\CitasForm.pdb

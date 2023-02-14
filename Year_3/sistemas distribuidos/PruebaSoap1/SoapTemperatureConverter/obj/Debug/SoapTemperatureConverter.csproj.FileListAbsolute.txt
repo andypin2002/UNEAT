@@ -1,0 +1,7 @@
+C:\Users\andyp\Desktop\sistemas distribuidos\PruebaSoap1\SoapTemperatureConverter\bin\Debug\SoapTemperatureConverter.dll.config
+C:\Users\andyp\Desktop\sistemas distribuidos\PruebaSoap1\SoapTemperatureConverter\bin\Debug\SoapTemperatureConverter.dll
+C:\Users\andyp\Desktop\sistemas distribuidos\PruebaSoap1\SoapTemperatureConverter\bin\Debug\SoapTemperatureConverter.pdb
+C:\Users\andyp\Desktop\sistemas distribuidos\PruebaSoap1\SoapTemperatureConverter\obj\Debug\SoapTemperatureConverter.csproj.AssemblyReference.cache
+C:\Users\andyp\Desktop\sistemas distribuidos\PruebaSoap1\SoapTemperatureConverter\obj\Debug\SoapTemperatureConverter.csproj.CoreCompileInputs.cache
+C:\Users\andyp\Desktop\sistemas distribuidos\PruebaSoap1\SoapTemperatureConverter\obj\Debug\SoapTemperatureConverter.dll
+C:\Users\andyp\Desktop\sistemas distribuidos\PruebaSoap1\SoapTemperatureConverter\obj\Debug\SoapTemperatureConverter.pdb

@@ -1,0 +1,8 @@
+C:\Users\andyp\Desktop\sistemas distribuidos\Sockets_Ejercicio1\CurrencyClient\bin\Debug\CurrencyClient.exe.config
+C:\Users\andyp\Desktop\sistemas distribuidos\Sockets_Ejercicio1\CurrencyClient\bin\Debug\CurrencyClient.exe
+C:\Users\andyp\Desktop\sistemas distribuidos\Sockets_Ejercicio1\CurrencyClient\bin\Debug\CurrencyClient.pdb
+C:\Users\andyp\Desktop\sistemas distribuidos\Sockets_Ejercicio1\CurrencyClient\obj\Debug\CurrencyClient.csproj.AssemblyReference.cache
+C:\Users\andyp\Desktop\sistemas distribuidos\Sockets_Ejercicio1\CurrencyClient\obj\Debug\CurrencyClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\andyp\Desktop\sistemas distribuidos\Sockets_Ejercicio1\CurrencyClient\obj\Debug\CurrencyClient.csproj.CoreCompileInputs.cache
+C:\Users\andyp\Desktop\sistemas distribuidos\Sockets_Ejercicio1\CurrencyClient\obj\Debug\CurrencyClient.exe
+C:\Users\andyp\Desktop\sistemas distribuidos\Sockets_Ejercicio1\CurrencyClient\obj\Debug\CurrencyClient.pdb

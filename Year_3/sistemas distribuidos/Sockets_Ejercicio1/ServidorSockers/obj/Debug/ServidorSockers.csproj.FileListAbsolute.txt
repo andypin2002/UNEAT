@@ -1,0 +1,8 @@
+C:\Users\andyp\Desktop\sistemas distribuidos\Sockets_Ejercicio1\ServidorSockers\bin\Debug\ServidorSockers.exe.config
+C:\Users\andyp\Desktop\sistemas distribuidos\Sockets_Ejercicio1\ServidorSockers\bin\Debug\ServidorSockers.exe
+C:\Users\andyp\Desktop\sistemas distribuidos\Sockets_Ejercicio1\ServidorSockers\bin\Debug\ServidorSockers.pdb
+C:\Users\andyp\Desktop\sistemas distribuidos\Sockets_Ejercicio1\ServidorSockers\obj\Debug\ServidorSockers.csproj.AssemblyReference.cache
+C:\Users\andyp\Desktop\sistemas distribuidos\Sockets_Ejercicio1\ServidorSockers\obj\Debug\ServidorSockers.csproj.SuggestedBindingRedirects.cache
+C:\Users\andyp\Desktop\sistemas distribuidos\Sockets_Ejercicio1\ServidorSockers\obj\Debug\ServidorSockers.csproj.CoreCompileInputs.cache
+C:\Users\andyp\Desktop\sistemas distribuidos\Sockets_Ejercicio1\ServidorSockers\obj\Debug\ServidorSockers.exe
+C:\Users\andyp\Desktop\sistemas distribuidos\Sockets_Ejercicio1\ServidorSockers\obj\Debug\ServidorSockers.pdb

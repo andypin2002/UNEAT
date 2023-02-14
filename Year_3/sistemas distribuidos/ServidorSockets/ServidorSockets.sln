@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServidorSockets", "ServidorSockets\ServidorSockets.csproj", "{FB3C8DFE-D044-4D9A-855A-CAB1EAD68DBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClienteSockets", "ClienteSockets\ClienteSockets.csproj", "{EDBEC123-079F-458C-A69E-4AD16628AFCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB3C8DFE-D044-4D9A-855A-CAB1EAD68DBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB3C8DFE-D044-4D9A-855A-CAB1EAD68DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB3C8DFE-D044-4D9A-855A-CAB1EAD68DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB3C8DFE-D044-4D9A-855A-CAB1EAD68DBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDBEC123-079F-458C-A69E-4AD16628AFCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDBEC123-079F-458C-A69E-4AD16628AFCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDBEC123-079F-458C-A69E-4AD16628AFCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDBEC123-079F-458C-A69E-4AD16628AFCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2555354E-D57E-478C-9356-7EB582F455F0}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\andyp\Desktop\sistemas distribuidos\AlmacenPale\GestionAlmacen\bin\GestionAlmacen.dll.config
+C:\Users\andyp\Desktop\sistemas distribuidos\AlmacenPale\GestionAlmacen\bin\GestionAlmacen.dll
+C:\Users\andyp\Desktop\sistemas distribuidos\AlmacenPale\GestionAlmacen\bin\GestionAlmacen.pdb
+C:\Users\andyp\Desktop\sistemas distribuidos\AlmacenPale\GestionAlmacen\obj\Debug\GestionAlmacen.csproj.AssemblyReference.cache
+C:\Users\andyp\Desktop\sistemas distribuidos\AlmacenPale\GestionAlmacen\obj\Debug\GestionAlmacen.csproj.CoreCompileInputs.cache
+C:\Users\andyp\Desktop\sistemas distribuidos\AlmacenPale\GestionAlmacen\obj\Debug\GestionAlmacen.dll
+C:\Users\andyp\Desktop\sistemas distribuidos\AlmacenPale\GestionAlmacen\obj\Debug\GestionAlmacen.pdb
+C:\Users\andyp\Desktop\sistemas distribuidos\AlmacenPale\GestionAlmacen\bin\Extra.dll
+C:\Users\andyp\Desktop\sistemas distribuidos\AlmacenPale\GestionAlmacen\bin\Extra.pdb
+C:\Users\andyp\Desktop\sistemas distribuidos\AlmacenPale\GestionAlmacen\obj\Debug\GestionAlmacen.csproj.CopyComplete

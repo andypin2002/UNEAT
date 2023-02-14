@@ -1,0 +1,12 @@
+C:\Users\andyp\Desktop\sistemas distribuidos\Sockets_Ejercicio1\CurrencyServer\obj\Debug\CurrencyServer.csproj.AssemblyReference.cache
+C:\Users\andyp\Desktop\sistemas distribuidos\Sockets_Ejercicio1\CurrencyServer\obj\Debug\CurrencyServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\andyp\Desktop\sistemas distribuidos\Sockets_Ejercicio1\CurrencyServer\obj\Debug\CurrencyServer.csproj.CoreCompileInputs.cache
+C:\Users\andyp\Desktop\sistemas distribuidos\Sockets_Ejercicio1\CurrencyServer\bin\Debug\CurrencyServer.exe.config
+C:\Users\andyp\Desktop\sistemas distribuidos\Sockets_Ejercicio1\CurrencyServer\bin\Debug\CurrencyServer.exe
+C:\Users\andyp\Desktop\sistemas distribuidos\Sockets_Ejercicio1\CurrencyServer\bin\Debug\CurrencyServer.pdb
+C:\Users\andyp\Desktop\sistemas distribuidos\Sockets_Ejercicio1\CurrencyServer\bin\Debug\XMLConverter.exe
+C:\Users\andyp\Desktop\sistemas distribuidos\Sockets_Ejercicio1\CurrencyServer\bin\Debug\XMLConverter.pdb
+C:\Users\andyp\Desktop\sistemas distribuidos\Sockets_Ejercicio1\CurrencyServer\bin\Debug\XMLConverter.exe.config
+C:\Users\andyp\Desktop\sistemas distribuidos\Sockets_Ejercicio1\CurrencyServer\obj\Debug\CurrencyServer.csproj.CopyComplete
+C:\Users\andyp\Desktop\sistemas distribuidos\Sockets_Ejercicio1\CurrencyServer\obj\Debug\CurrencyServer.exe
+C:\Users\andyp\Desktop\sistemas distribuidos\Sockets_Ejercicio1\CurrencyServer\obj\Debug\CurrencyServer.pdb

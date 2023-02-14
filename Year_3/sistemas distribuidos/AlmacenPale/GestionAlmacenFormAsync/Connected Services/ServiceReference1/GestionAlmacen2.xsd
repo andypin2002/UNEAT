@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/GestionAlmacen" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/GestionAlmacen" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:51691/GestionAlmacen.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/Extra" />
+  <xs:complexType name="Pale">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Codigo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="FechaDeCreacion" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="Peso" type="xs:int" />
+      <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/Extra" minOccurs="0" name="Producto" type="q1:Productos" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Pale" nillable="true" type="tns:Pale" />
+  <xs:complexType name="Ubicacion">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Altura" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Columna" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Mano" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Pasillo" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Ubicacion" nillable="true" type="tns:Ubicacion" />
+  <xs:complexType name="ArrayOfPale">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Pale" nillable="true" type="tns:Pale" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfPale" nillable="true" type="tns:ArrayOfPale" />
+</xs:schema>

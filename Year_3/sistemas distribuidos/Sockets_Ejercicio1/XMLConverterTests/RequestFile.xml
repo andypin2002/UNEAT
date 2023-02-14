@@ -1,0 +1,5 @@
+﻿<ConvertRequest>
+  <from>Euros</from>
+  <to>Dollars</to>
+  <units>10</units>
+</ConvertRequest>

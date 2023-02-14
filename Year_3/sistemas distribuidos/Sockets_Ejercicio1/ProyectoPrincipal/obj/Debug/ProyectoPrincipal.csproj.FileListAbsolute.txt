@@ -1,0 +1,8 @@
+C:\Users\andyp\Desktop\sistemas distribuidos\Sockets_Ejercicio1\ProyectoPrincipal\bin\Debug\ProyectoPrincipal.exe.config
+C:\Users\andyp\Desktop\sistemas distribuidos\Sockets_Ejercicio1\ProyectoPrincipal\bin\Debug\ProyectoPrincipal.exe
+C:\Users\andyp\Desktop\sistemas distribuidos\Sockets_Ejercicio1\ProyectoPrincipal\bin\Debug\ProyectoPrincipal.pdb
+C:\Users\andyp\Desktop\sistemas distribuidos\Sockets_Ejercicio1\ProyectoPrincipal\obj\Debug\ProyectoPrincipal.csproj.AssemblyReference.cache
+C:\Users\andyp\Desktop\sistemas distribuidos\Sockets_Ejercicio1\ProyectoPrincipal\obj\Debug\ProyectoPrincipal.csproj.SuggestedBindingRedirects.cache
+C:\Users\andyp\Desktop\sistemas distribuidos\Sockets_Ejercicio1\ProyectoPrincipal\obj\Debug\ProyectoPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\andyp\Desktop\sistemas distribuidos\Sockets_Ejercicio1\ProyectoPrincipal\obj\Debug\ProyectoPrincipal.exe
+C:\Users\andyp\Desktop\sistemas distribuidos\Sockets_Ejercicio1\ProyectoPrincipal\obj\Debug\ProyectoPrincipal.pdb
